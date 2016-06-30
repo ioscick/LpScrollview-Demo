@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A60F5F71D2506AA004729E7 /* readme.md in Sources */ = {isa = PBXBuildFile; fileRef = 8A60F5F61D2506AA004729E7 /* readme.md */; };
 		8A8EC6811CE038C60027609D /* goods1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8A8EC6801CE038C60027609D /* goods1.jpg */; };
 		8A8EC6831CE038D30027609D /* goods2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8A8EC6821CE038D30027609D /* goods2.jpg */; };
 		8A8EC6851CE039230027609D /* Default-Landscape_375h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8EC6841CE039230027609D /* Default-Landscape_375h@2x.png */; };
@@ -55,6 +56,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8A60F5F61D2506AA004729E7 /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		8A8EC6801CE038C60027609D /* goods1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = goods1.jpg; sourceTree = "<group>"; };
 		8A8EC6821CE038D30027609D /* goods2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = goods2.jpg; sourceTree = "<group>"; };
 		8A8EC6841CE039230027609D /* Default-Landscape_375h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape_375h@2x.png"; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 		8ADD83B71CDC4CFA00AE7963 /* LpScrollview Demo */ = {
 			isa = PBXGroup;
 			children = (
+				8A60F5F61D2506AA004729E7 /* readme.md */,
 				8ADD83EE1CDC6E9C00AE7963 /* SDWebImage */,
 				8ADD83BB1CDC4CFA00AE7963 /* AppDelegate.h */,
 				8ADD83BC1CDC4CFA00AE7963 /* AppDelegate.m */,
@@ -381,6 +384,7 @@
 				8ADD841B1CDC6E9C00AE7963 /* UIImage+MultiFormat.m in Sources */,
 				8ADD84161CDC6E9C00AE7963 /* SDWebImageDownloaderOperation.m in Sources */,
 				8ADD83C01CDC4CFA00AE7963 /* ViewController.m in Sources */,
+				8A60F5F71D2506AA004729E7 /* readme.md in Sources */,
 				8ADD84131CDC6E9C00AE7963 /* SDWebImageCompat.m in Sources */,
 				8ADD841A1CDC6E9C00AE7963 /* UIImage+GIF.m in Sources */,
 				8ADD84181CDC6E9C00AE7963 /* SDWebImagePrefetcher.m in Sources */,
